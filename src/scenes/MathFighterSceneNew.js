@@ -43,8 +43,6 @@ export default class MathFighterScene extends Phaser.Scene {
         this.answerR = undefined
         this.value1 = undefined
         this.answerText = undefined
-        //this.demonHere = undefined
-        //this.ogreHere = undefined
         }
     preload() {
         this.load.image('background', 'images/bg_layer1.png')
