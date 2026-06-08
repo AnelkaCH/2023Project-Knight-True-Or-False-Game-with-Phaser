@@ -1,8 +1,8 @@
 # Demon's Trial: True or False (OUTDATED)
 
-A browser-based quiz combat game built with Phaser 3, where players defeat a demon by answering true-or-false questions correctly.
+(Note: This project was made in 2023, but I decided to upload it to GitHub in 2026 to keep it safe :D. It's also broken so... D:)
 
-This project was created in 2023 as part of my journey learning game development with Phaser. It was one of my early experiments with game logic, animations, user input, and combat mechanics.
+This project was created in 2023 as part of my journey learning game development with Phaser. It was one of my early experiments with game logic, animations, user input, and combat mechanics. For this project, I tried to be more ambitious.
 
 ## Play Online
 
